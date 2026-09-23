@@ -1,0 +1,138 @@
+{
+ "updated": "2026-09-23T18:30:00Z",
+ "last_checked": "2026-09-23T18:30:00Z",
+ "sources_checked": [
+  "Google Search Central Blog",
+  "Google Search documentation updates",
+  "SE Ranking blog",
+  "Search Engine Roundtable"
+ ],
+ "items": [
+  {
+   "id": "srp-2026-08-28",
+   "kind": "policy",
+   "date": "2026-08-28",
+   "event": "Site reputation policy change",
+   "title": "Update to the Site Reputation Policy",
+   "summary": "Effective Aug 30. Outside the EEA, a manual action now demotes only the affected section. In the EEA, manual-action impact no longer applies; the section may be separated to rank on its own over time.",
+   "figures": [],
+   "source": {
+    "name": "Google Search Central Blog",
+    "url": "https://developers.google.com/search/blog/2026/08/update-site-reputation-policy"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ai-spam-2026-05-15",
+   "kind": "policy",
+   "date": "2026-05-15",
+   "event": "Spam policy extended to AI answers",
+   "title": "Spam policies now cover AI Overviews and AI Mode",
+   "summary": "Google's spam policies explicitly apply to attempts to manipulate AI Overviews and AI Mode.",
+   "figures": [],
+   "source": {
+    "name": "PPC Land",
+    "url": "https://ppc.land/google-spam-policies-now-officially-cover-ai-overviews-and-ai-mode-in-search/"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "backbtn-2026-04-13",
+   "kind": "policy",
+   "date": "2026-04-13",
+   "event": "Back button hijacking policy",
+   "title": "Back button hijacking added to spam policies",
+   "summary": "Announced Apr 13; Search Console warnings and enforcement began Jun 15.",
+   "figures": [],
+   "source": {
+    "name": "Google Search Central Blog",
+    "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ser-aug-spam",
+   "kind": "impact",
+   "date": "2026-08-27",
+   "event": "August 2026 spam update",
+   "title": "August spam update impact (SE Ranking data)",
+   "summary": "Share of top-10 URLs that fell beyond position 100, vs. a quiet July window.",
+   "figures": [
+    {
+     "label": "Top-10 URLs pushed past #100",
+     "value": "16.71%"
+    },
+    {
+     "label": "Quiet-week baseline (Jul 26–31)",
+     "value": "9.2%"
+    }
+   ],
+   "source": {
+    "name": "Search Engine Land",
+    "url": "https://searchengineland.com/google-august-2026-spam-update-ranking-impact-485980"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ser-jun-spam",
+   "kind": "impact",
+   "date": "2026-06-30",
+   "event": "June 2026 spam update",
+   "title": "June spam update: “the calmest update we’ve seen this year”",
+   "summary": "SE Ranking did not publish a top-10 drop-out rate for June.",
+   "figures": [
+    {
+     "label": "New top-3 URLs from outside top 20",
+     "value": "11.48%"
+    }
+   ],
+   "source": {
+    "name": "SE Ranking on X",
+    "url": "https://x.com/SERanking/status/2072299145285533873"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ser-may-core",
+   "kind": "impact",
+   "date": "2026-06-05",
+   "event": "May 2026 core update",
+   "title": "May 2026 core update analysis",
+   "summary": "",
+   "figures": [
+    {
+     "label": "Top-10 URLs pushed past #100",
+     "value": "19.87%"
+    }
+   ],
+   "source": {
+    "name": "SE Ranking",
+    "url": "https://seranking.com/blog/google-may-2026-core-update-analysis/"
+   },
+   "status": "verified"
+  },
+  {
+   "id": "ser-mar",
+   "kind": "impact",
+   "date": "2026-04-10",
+   "event": "March 2026 spam + core update",
+   "title": "March 2026 core update vs December 2025",
+   "summary": "March spam and core were measured as one combined window.",
+   "figures": [
+    {
+     "label": "Top-10 URLs pushed past #100",
+     "value": "24.1%"
+    },
+    {
+     "label": "Top-3 results that changed",
+     "value": "79.5%"
+    }
+   ],
+   "source": {
+    "name": "SE Ranking",
+    "url": "https://seranking.com/blog/google-core-update-march-2026-vs-december-2025/"
+   },
+   "status": "verified"
+  }
+ ]
+}
