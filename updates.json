@@ -76,7 +76,7 @@
   {
    "id": "ser-jun-spam",
    "kind": "impact",
-   "date": "2026-06-30",
+   "date": "2026-07-01",
    "event": "June 2026 spam update",
    "title": "June spam update: “the calmest update we’ve seen this year”",
    "summary": "SE Ranking did not publish a top-10 drop-out rate for June.",
@@ -114,7 +114,7 @@
   {
    "id": "ser-mar",
    "kind": "impact",
-   "date": "2026-04-10",
+   "date": "2026-04-17",
    "event": "March 2026 spam + core update",
    "title": "March 2026 core update vs December 2025",
    "summary": "March spam and core were measured as one combined window.",
