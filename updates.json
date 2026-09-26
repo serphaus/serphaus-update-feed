@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-25T12:46:35Z",
- "last_checked": "2026-09-25T12:46:35Z",
+ "updated": "2026-09-26T12:51:30Z",
+ "last_checked": "2026-09-26T12:51:30Z",
  "sources_checked": [
   "Google Search Central Blog",
   "Google Search documentation updates",
@@ -155,6 +155,22 @@
    },
    "status": "pending",
    "collected": "2026-09-25T12:46:35Z"
+  },
+  {
+   "id": "seroundtable-google-search-ranking-volatility-42157",
+   "kind": "analysis",
+   "date": "2026-09-24",
+   "event": "September 2026 spam update",
+   "title": "Google Search Ranking Volatility Hits September 23rd & 24th",
+   "summary": "Search Engine Roundtable reported significant Google Search ranking volatility starting around September 23 (possibly September 22) and continuing through September 24. The report was updated to note that Google had confirmed the September 2026 spam update began rolling out.",
+   "figures": [],
+   "quote": "UPDATE: Google has confirmed the September 2026 spam update started to roll out today.",
+   "source": {
+    "name": "Search Engine Roundtable",
+    "url": "https://www.seroundtable.com/google-search-ranking-volatility-42157.html"
+   },
+   "status": "pending",
+   "collected": "2026-09-26T12:51:30Z"
   }
  ]
 }
