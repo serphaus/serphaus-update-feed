@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-26T12:51:30Z",
- "last_checked": "2026-09-27T12:54:09Z",
+ "updated": "2026-09-28T12:58:37Z",
+ "last_checked": "2026-09-28T12:58:37Z",
  "sources_checked": [
   "Google Search Central Blog",
   "Google Search documentation updates",
@@ -171,6 +171,27 @@
    },
    "status": "pending",
    "collected": "2026-09-26T12:51:30Z"
+  },
+  {
+   "id": "seroundtable-google-september-2026-spam-update-weekend-impact-42174",
+   "kind": "analysis",
+   "date": "2026-09-28",
+   "event": "September 2026 spam update",
+   "title": "Google September 2026 Spam Update Weekend Impact",
+   "summary": "Search Engine Roundtable reported that the first stage of Google's September 2026 Spam update appeared to cause substantial ranking movement starting Friday, September 25, with more movement Saturday and easing Sunday. The article says it is still early in the two-week rollout and that the update's targets are not yet fully known.",
+   "figures": [
+    {
+     "label": "rollout duration",
+     "value": "two weeks"
+    }
+   ],
+   "quote": "The first stage of the Google September 2026 Spam update seems to have been felt in a big way starting Friday, September 25th, with even more movement on Saturday, September 26th and then ending on Sunday, September 27th.",
+   "source": {
+    "name": "Search Engine Roundtable",
+    "url": "https://www.seroundtable.com/google-september-2026-spam-update-weekend-impact-42174.html"
+   },
+   "status": "pending",
+   "collected": "2026-09-28T12:58:37Z"
   }
  ]
 }
