@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-28T12:58:37Z",
- "last_checked": "2026-10-01T12:45:22Z",
+ "updated": "2026-10-02T12:41:44Z",
+ "last_checked": "2026-10-02T12:41:44Z",
  "sources_checked": [
   "Google Search Central Blog",
   "Google Search documentation updates",
@@ -192,6 +192,22 @@
    },
    "status": "pending",
    "collected": "2026-09-28T12:58:37Z"
+  },
+  {
+   "id": "seroundtable-google-september-2026-spam-update-phase-two-42209",
+   "kind": "analysis",
+   "date": "2026-10-01",
+   "event": "September 2026 spam update — phase two",
+   "title": "Phase Two Of The Google September 2026 Spam Update Hits On 9/30",
+   "summary": "Search Engine Roundtable said September 30 may have marked a second phase of Google's September 2026 spam update, following reported movement on September 25–27. It cited site-owner reports of drops on September 30 and discussion of volatile or vanished Discover and News traffic.",
+   "figures": [],
+   "quote": "September 30th may have been the second wave, the second phase of this Google spam update.",
+   "source": {
+    "name": "Search Engine Roundtable",
+    "url": "https://www.seroundtable.com/google-september-2026-spam-update-two-42209.html"
+   },
+   "status": "pending",
+   "collected": "2026-10-02T12:41:44Z"
   }
  ]
 }
