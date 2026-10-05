@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-02T12:41:44Z",
- "last_checked": "2026-10-04T12:40:23Z",
+ "updated": "2026-10-05T12:56:33Z",
+ "last_checked": "2026-10-05T12:56:33Z",
  "sources_checked": [
   "Google Search Central Blog",
   "Google Search documentation updates",
@@ -208,6 +208,22 @@
    },
    "status": "pending",
    "collected": "2026-10-02T12:41:44Z"
+  },
+  {
+   "id": "seroundtable-google-search-spam-updates-use-ai-to-find-ai-spam-42226",
+   "kind": "analysis",
+   "date": "2026-10-05",
+   "event": "Google spam-update approach",
+   "title": "Google Search Spam Updates Use AI To Find AI Spam & More",
+   "summary": "Search Engine Roundtable relayed comments from Google Search Central Live Deep Dive, including that more spam updates have been introduced because there is more new content and that Google is using AI to help catch more spam. The report also quoted a warning that scaled content is becoming more of a problem than link spam.",
+   "figures": [],
+   "quote": "The team is now using AI to help catch more of it.",
+   "source": {
+    "name": "Search Engine Roundtable",
+    "url": "https://www.seroundtable.com/google-search-spam-updates-ai-42226.html"
+   },
+   "status": "pending",
+   "collected": "2026-10-05T12:56:33Z"
   }
  ]
 }
