@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-05T12:56:33Z",
- "last_checked": "2026-10-05T12:56:33Z",
+ "updated": "2026-10-06T12:54:52Z",
+ "last_checked": "2026-10-06T12:54:52Z",
  "sources_checked": [
   "Google Search Central Blog",
   "Google Search documentation updates",
@@ -224,6 +224,22 @@
    },
    "status": "pending",
    "collected": "2026-10-05T12:56:33Z"
+  },
+  {
+   "id": "seroundtable-google-september-2026-spam-update-phase-3-42239",
+   "kind": "analysis",
+   "date": "2026-10-06",
+   "event": "September 2026 spam update rollout",
+   "title": "Google September 2026 Spam Update Phase Three Hit October 4",
+   "summary": "Search Engine Roundtable reports renewed volatility around October 4–6 during the ongoing September 2026 spam update. The article's author believes this may be a final, third phase; Google has not confirmed a phase-specific start.",
+   "figures": [],
+   "quote": "I believe we are seeing the final phase of the Google September 2026 spam update rolling out between October 4th and October 6th, today.",
+   "source": {
+    "name": "Search Engine Roundtable",
+    "url": "https://www.seroundtable.com/google-september-2026-spam-update-phase-3-42239.html"
+   },
+   "status": "pending",
+   "collected": "2026-10-06T12:54:52Z"
   }
  ]
 }
