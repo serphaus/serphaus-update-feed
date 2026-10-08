@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-06T12:54:52Z",
- "last_checked": "2026-10-07T12:58:00Z",
+ "updated": "2026-10-08T12:41:13Z",
+ "last_checked": "2026-10-08T12:41:13Z",
  "sources_checked": [
   "Google Search Central Blog",
   "Google Search documentation updates",
@@ -240,6 +240,35 @@
    },
    "status": "pending",
    "collected": "2026-10-06T12:54:52Z"
+  },
+  {
+   "id": "seroundtable-google-september-2026-spam-update-done-42235",
+   "kind": "analysis",
+   "date": "2026-10-08",
+   "event": "September 2026 spam update rollout completion",
+   "title": "Google September 2026 Spam Update Has Finished Rolling Out",
+   "summary": "Search Engine Roundtable reports Google's September 2026 spam update completed at 4:37 a.m. ET on October 8, following a two-week rollout from September 24. The article contrasts this with the previous few spam updates, which it says took two days.",
+   "figures": [
+    {
+     "label": "reported rollout duration",
+     "value": "two weeks"
+    },
+    {
+     "label": "previous few spam updates' rollout duration (article's comparison)",
+     "value": "two days"
+    },
+    {
+     "label": "reported completion time",
+     "value": "October 8, 2026 at 4:37 am ET"
+    }
+   ],
+   "quote": "The Google September 2026 spam update is now done rolling out.",
+   "source": {
+    "name": "Search Engine Roundtable",
+    "url": "https://www.seroundtable.com/google-september-2026-spam-update-done-42235.html"
+   },
+   "status": "pending",
+   "collected": "2026-10-08T12:41:13Z"
   }
  ]
 }
