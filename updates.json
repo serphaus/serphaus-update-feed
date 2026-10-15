@@ -141,11 +141,11 @@
    "date": "2026-09-24",
    "event": "September 2026 spam update",
    "title": "Google September 2026 Spam Update Is Rolling Out",
-   "summary": "Search Engine Roundtable reported Google's September 2026 spam update, which applies globally and to all languages. The article says the rollout may take up to two weeks to complete.",
+   "summary": "Google released the September 2026 spam update on Sep 24, applying globally and to all languages, and said the rollout may take up to two weeks. Search Engine Roundtable noted the three earlier 2026 spam updates each took about two days.",
    "figures": [
     {
-     "label": "rollout duration",
-     "value": "up to two weeks"
+     "label": "Google’s stated rollout estimate",
+     "value": "up to 2 weeks"
     }
    ],
    "quote": "Released the September 2026 spam update, which applies globally and to all languages.",
@@ -153,8 +153,9 @@
     "name": "Search Engine Roundtable",
     "url": "https://www.seroundtable.com/google-september-2026-spam-update-42163.html"
    },
-   "status": "pending",
-   "collected": "2026-09-25T12:46:35Z"
+   "status": "verified",
+   "collected": "2026-09-25T12:46:35Z",
+   "verified_note": "Checked against the source article and Google's Search Status Dashboard on 2026-10-15"
   },
   {
    "id": "seroundtable-google-search-ranking-volatility-42157",
@@ -169,8 +170,9 @@
     "name": "Search Engine Roundtable",
     "url": "https://www.seroundtable.com/google-search-ranking-volatility-42157.html"
    },
-   "status": "pending",
-   "collected": "2026-09-26T12:51:30Z"
+   "status": "verified",
+   "collected": "2026-09-26T12:51:30Z",
+   "verified_note": "Checked against the source article and Google's Search Status Dashboard on 2026-10-15"
   },
   {
    "id": "seroundtable-google-september-2026-spam-update-weekend-impact-42174",
@@ -179,19 +181,15 @@
    "event": "September 2026 spam update",
    "title": "Google September 2026 Spam Update Weekend Impact",
    "summary": "Search Engine Roundtable reported that the first stage of Google's September 2026 Spam update appeared to cause substantial ranking movement starting Friday, September 25, with more movement Saturday and easing Sunday. The article says it is still early in the two-week rollout and that the update's targets are not yet fully known.",
-   "figures": [
-    {
-     "label": "rollout duration",
-     "value": "two weeks"
-    }
-   ],
+   "figures": [],
    "quote": "The first stage of the Google September 2026 Spam update seems to have been felt in a big way starting Friday, September 25th, with even more movement on Saturday, September 26th and then ending on Sunday, September 27th.",
    "source": {
     "name": "Search Engine Roundtable",
     "url": "https://www.seroundtable.com/google-september-2026-spam-update-weekend-impact-42174.html"
    },
-   "status": "pending",
-   "collected": "2026-09-28T12:58:37Z"
+   "status": "verified",
+   "collected": "2026-09-28T12:58:37Z",
+   "verified_note": "Checked against the source article and Google's Search Status Dashboard on 2026-10-15"
   },
   {
    "id": "seroundtable-google-september-2026-spam-update-phase-two-42209",
@@ -199,15 +197,16 @@
    "date": "2026-10-01",
    "event": "September 2026 spam update — phase two",
    "title": "Phase Two Of The Google September 2026 Spam Update Hits On 9/30",
-   "summary": "Search Engine Roundtable said September 30 may have marked a second phase of Google's September 2026 spam update, following reported movement on September 25–27. It cited site-owner reports of drops on September 30 and discussion of volatile or vanished Discover and News traffic.",
+   "summary": "Search Engine Roundtable said September 30 may have marked a second phase of the September 2026 spam update, after movement on September 25–27. It cited Glenn Gabe, who said several site owners reported a large drop on 9/30.",
    "figures": [],
    "quote": "September 30th may have been the second wave, the second phase of this Google spam update.",
    "source": {
     "name": "Search Engine Roundtable",
     "url": "https://www.seroundtable.com/google-september-2026-spam-update-two-42209.html"
    },
-   "status": "pending",
-   "collected": "2026-10-02T12:41:44Z"
+   "status": "verified",
+   "collected": "2026-10-02T12:41:44Z",
+   "verified_note": "Checked against the source article and Google's Search Status Dashboard on 2026-10-15"
   },
   {
    "id": "seroundtable-google-search-spam-updates-use-ai-to-find-ai-spam-42226",
@@ -215,15 +214,16 @@
    "date": "2026-10-05",
    "event": "Google spam-update approach",
    "title": "Google Search Spam Updates Use AI To Find AI Spam & More",
-   "summary": "Search Engine Roundtable relayed comments from Google Search Central Live Deep Dive, including that more spam updates have been introduced because there is more new content and that Google is using AI to help catch more spam. The report also quoted a warning that scaled content is becoming more of a problem than link spam.",
+   "summary": "Search Engine Roundtable relayed John Campbell’s (We Are Roast) recap of Google Search Central Live Deep Dive Europe: Google has run more spam updates because there is much more new content, is using AI to help catch spam, and warned that scaled content is becoming more of a problem than link spam. These are secondhand notes, not a Google statement.",
    "figures": [],
    "quote": "The team is now using AI to help catch more of it.",
    "source": {
     "name": "Search Engine Roundtable",
     "url": "https://www.seroundtable.com/google-search-spam-updates-ai-42226.html"
    },
-   "status": "pending",
-   "collected": "2026-10-05T12:56:33Z"
+   "status": "verified",
+   "collected": "2026-10-05T12:56:33Z",
+   "verified_note": "Checked against the source article and Google's Search Status Dashboard on 2026-10-15"
   },
   {
    "id": "seroundtable-google-september-2026-spam-update-phase-3-42239",
@@ -238,8 +238,9 @@
     "name": "Search Engine Roundtable",
     "url": "https://www.seroundtable.com/google-september-2026-spam-update-phase-3-42239.html"
    },
-   "status": "pending",
-   "collected": "2026-10-06T12:54:52Z"
+   "status": "verified",
+   "collected": "2026-10-06T12:54:52Z",
+   "verified_note": "Checked against the source article and Google's Search Status Dashboard on 2026-10-15"
   },
   {
    "id": "seroundtable-google-september-2026-spam-update-done-42235",
@@ -247,19 +248,15 @@
    "date": "2026-10-08",
    "event": "September 2026 spam update rollout completion",
    "title": "Google September 2026 Spam Update Has Finished Rolling Out",
-   "summary": "Search Engine Roundtable reports Google's September 2026 spam update completed at 4:37 a.m. ET on October 8, following a two-week rollout from September 24. The article contrasts this with the previous few spam updates, which it says took two days.",
+   "summary": "Google’s Search Status Dashboard logs the September 2026 spam update from Sep 24, 09:15 PT to Oct 8, 01:00 PT (about 13 days 16 hours). Search Engine Roundtable contrasted this with the roughly two-day rollouts of the previous 2026 spam updates and listed impact dates of Sep 25–27, Sep 30, and Oct 4–6.",
    "figures": [
     {
-     "label": "reported rollout duration",
-     "value": "two weeks"
+     "label": "Logged rollout (Google Status Dashboard)",
+     "value": "13 d 16 h"
     },
     {
-     "label": "previous few spam updates' rollout duration (article's comparison)",
-     "value": "two days"
-    },
-    {
-     "label": "reported completion time",
-     "value": "October 8, 2026 at 4:37 am ET"
+     "label": "Impact dates reported by SER",
+     "value": "Sep 25–27 · Sep 30 · Oct 4–6"
     }
    ],
    "quote": "The Google September 2026 spam update is now done rolling out.",
@@ -267,8 +264,9 @@
     "name": "Search Engine Roundtable",
     "url": "https://www.seroundtable.com/google-september-2026-spam-update-done-42235.html"
    },
-   "status": "pending",
-   "collected": "2026-10-08T12:41:13Z"
+   "status": "verified",
+   "collected": "2026-10-08T12:41:13Z",
+   "verified_note": "Checked against the source article and Google's Search Status Dashboard on 2026-10-15"
   }
  ]
 }
