@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-08T12:41:13Z",
- "last_checked": "2026-10-22T12:38:39Z",
+ "updated": "2026-11-14T13:39:19Z",
+ "last_checked": "2026-11-14T13:39:19Z",
  "sources_checked": [
   "Google Search Central Blog",
   "Google Search documentation updates",
@@ -267,6 +267,27 @@
    "status": "verified",
    "collected": "2026-10-08T12:41:13Z",
    "verified_note": "Checked against the source article and Google's Search Status Dashboard on 2026-10-15"
+  },
+  {
+   "id": "seroundtable-google-november-2026-core-update-42504",
+   "kind": "analysis",
+   "date": "2026-11-10",
+   "event": "November 2026 core update",
+   "title": "Google November 2026 core update is rolling out",
+   "summary": "Google's Search Status Dashboard logs the November 2026 core update starting Nov 10, 10:06 AM PT, applying globally and to all languages; it was still rolling out as of Nov 14. Search Engine Roundtable relayed Google's description of it as a regular core update and noted ranking movement on Nov 8–9 beforehand.",
+   "figures": [
+    {
+     "label": "Google’s stated rollout estimate",
+     "value": "up to 2 weeks"
+    }
+   ],
+   "quote": "This is a regular update designed to better surface relevant, satisfying content for searchers from all types of sites.",
+   "source": {
+    "name": "Search Engine Roundtable",
+    "url": "https://www.seroundtable.com/google-november-2026-core-update-42504.html"
+   },
+   "status": "pending",
+   "collected": "2026-11-14T13:39:19Z"
   }
  ]
 }
