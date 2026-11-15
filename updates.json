@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14T13:39:19Z",
- "last_checked": "2026-11-14T13:39:19Z",
+ "updated": "2026-11-15T13:39:18Z",
+ "last_checked": "2026-11-15T13:39:18Z",
  "sources_checked": [
   "Google Search Central Blog",
   "Google Search documentation updates",
@@ -288,6 +288,22 @@
    },
    "status": "pending",
    "collected": "2026-11-14T13:39:19Z"
+  },
+  {
+   "id": "seroundtable-google-email-site-reputation-policy-eea-42462",
+   "kind": "analysis",
+   "date": "2026-11-04",
+   "event": "Site reputation policy change",
+   "title": "Google emails site owners: site reputation manual actions no longer affect EEA results",
+   "summary": "Search Engine Roundtable reported that Google began emailing sites with past site reputation abuse manual actions, via Search Console, that those actions no longer affect results shown to users in the EEA. The change itself took effect Aug 30; the email text was shared by Glenn Gabe on X.",
+   "figures": [],
+   "quote": "This actually took effect on August 30, 2026, but now, two months later, Google is notifying site owners via Google Search Console.",
+   "source": {
+    "name": "Search Engine Roundtable",
+    "url": "https://www.seroundtable.com/google-email-site-reputation-policy-eea-42462.html"
+   },
+   "status": "pending",
+   "collected": "2026-11-15T13:39:18Z"
   }
  ]
 }
