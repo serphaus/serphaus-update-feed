@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T13:39:18Z",
- "last_checked": "2026-11-16T13:38:57Z",
+ "updated": "2026-11-17T13:39:14Z",
+ "last_checked": "2026-11-17T13:39:14Z",
  "sources_checked": [
   "Google Search Central Blog",
   "Google Search documentation updates",
@@ -304,6 +304,22 @@
    },
    "status": "pending",
    "collected": "2026-11-15T13:39:18Z"
+  },
+  {
+   "id": "seroundtable-google-november-2026-core-update-ranking-volatility-42543",
+   "kind": "analysis",
+   "date": "2026-11-16",
+   "event": "November 2026 core update",
+   "title": "November 2026 core update ranking flux: what Search Engine Roundtable is seeing",
+   "summary": "Barry Schwartz wrote that chatter about the update has been more muted than usual, possibly because third-party tracking tools are struggling, though tools in aggregate showed more volatility on Nov 14. Site owners in the comments reported mixed results, and Glenn Gabe flagged two domains that had scaled heavily via AI-generated content dropping sharply.",
+   "figures": [],
+   "quote": "The tools, in aggregate, also seemed to show more volatility on Saturday, November 14th, than other days.",
+   "source": {
+    "name": "Search Engine Roundtable",
+    "url": "https://www.seroundtable.com/google-november-2026-core-update-ranking-volatility-42543.html"
+   },
+   "status": "pending",
+   "collected": "2026-11-17T13:39:14Z"
   }
  ]
 }
